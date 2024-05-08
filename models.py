@@ -48,6 +48,3 @@ class Todo:
     def __repr__(self) -> str:
         return f'{self.id} - {self.title} - {self.user_id}'
 
-
-
-
